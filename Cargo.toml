@@ -27,12 +27,12 @@ digest = "0.9"
 thiserror = "1"
 
 [dependencies.curv-kzen]
-git = "https://github.com/jirigav/curv",
+git = "https://github.com/jirigav/curv"
 version = "0.10"
 default-features = false
 
 [dependencies.paillier]
-git = "https://github.com/jirigav/rust-paillier",
+git = "https://github.com/jirigav/rust-paillier"
 package = "kzen-paillier"
 version = "0.4.3"
 default-features = false
